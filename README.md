@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# ![snake gif](https://github.com/LoghanDev/LoghanDev/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **LoghanDev/LoghanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
