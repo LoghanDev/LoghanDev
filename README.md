@@ -20,7 +20,6 @@ Visit 🔭 Starvote Project: Starvote.com.br
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LoghanDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LoghanDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LoghanDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # ![snake gif](https://github.com/LoghanDev/LoghanDev/blob/output/github-contribution-grid-snake.gif)
 
