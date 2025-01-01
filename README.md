@@ -3,7 +3,7 @@ I’m Loghan
 👀 I’m interested in learning more about programming,I'm a software engineer,passionate about technology since I was little.
 🌱 I’m currently learning php, python, js,data security,among others.
 I’m looking to collaborate on doing my best and doing everything possible to get things done.
-⚡ Fun fact:I like anime/manga,volleyball and photography.
+⚡ Fun fact:I like anime,volleyball and photography.
 💬 contact:loghan17400@gmail.com
 
 # 💻 Tech Stack:
