@@ -10,6 +10,8 @@ I’m @LoghanDev
 
 # ![snake gif](https://github.com/LoghanDev/LoghanDev/blob/output/github-contribution-grid-snake.gif)
 
+[![](https://visitcount.itsvg.in/api?id=LoghanDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--
 **LoghanDev/LoghanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
