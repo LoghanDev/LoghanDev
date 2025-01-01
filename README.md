@@ -4,9 +4,14 @@ I’m @LoghanDev
 🌱 I’m currently learning php, python, js, data security, among others...
 💞️ I’m looking to collaborate on doing my best and doing everything possible to get things done...
 ⚡ Fun fact: I like anime/manga,volleyball and photography...
+💬 contact: loghan17400@gmail.com
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
 # ![snake gif](https://github.com/LoghanDev/LoghanDev/blob/output/github-contribution-grid-snake.gif)
 
