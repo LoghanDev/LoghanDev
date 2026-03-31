@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Loghan
+Hi there 👋 I’m Loghan
 
 👀 interested in learning more about programming,I'm a software engineer,passionate about technology since I was little.
 🌱 I’m currently learning php, python, js,data security,among others.
